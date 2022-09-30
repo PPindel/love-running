@@ -251,7 +251,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url('../images/pink-runner.jpg');
+    background-image: url('../images/pink-runner.jpg');
     background-size: cover;
     background-position: center;
     height: 900px;
